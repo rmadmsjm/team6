@@ -13,15 +13,18 @@
         android:theme="@style/Theme.Team6"
         tools:targetApi="31">
         <activity
+            android:name=".TestActivity"
+            android:exported="false" />
+        <activity
             android:name=".SungWonActivity"
             android:exported="false" />
-      <activity
+        <activity
             android:name=".SeongukActivity"
             android:exported="false" />
-      <activity
+        <activity
             android:name=".MSActivity"
             android:exported="false" />
-      <activity
+        <activity
             android:name=".RmadmsjmActivity"
             android:exported="false" />
         <activity
