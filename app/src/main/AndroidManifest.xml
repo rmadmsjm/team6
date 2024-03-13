@@ -15,6 +15,15 @@
         <activity
             android:name=".SungWonActivity"
             android:exported="false" />
+      <activity
+            android:name=".SeongukActivity"
+            android:exported="false" />
+      <activity
+            android:name=".MSActivity"
+            android:exported="false" />
+      <activity
+            android:name=".RmadmsjmActivity"
+            android:exported="false" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
